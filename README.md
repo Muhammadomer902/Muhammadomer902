@@ -58,6 +58,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
+<p align="center">
+      <img height="100" src="https://github-profile-trophy.vercel.app/?username=mhassanif&theme=dracula&no-bg=true&no-frame=true&row=1&margin-w=5" alt="Hassan's Trophies">
+</p> 
+
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
