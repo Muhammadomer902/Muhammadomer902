@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Full Stack Programming**
 
- 💬 Ask me about **anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/Muhammadomer902/Muhammadomer902/issues))**
+ 💬 Ask me about **anything [here](https://github.com/Muhammadomer902/Muhammadomer902/issues)**
 
  </div>
  
