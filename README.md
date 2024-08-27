@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,mongodb,c,mysql,cpp,cs,java,js" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mongodb,c,mysql,cpp,cs,java" /><br>
 </div>
 
 <br/>
