@@ -60,7 +60,7 @@
 <br>
 
 <p align="center">
-      <img height="100" src="https://github-profile-trophy.vercel.app/?username=Muhammadomer902&theme=dracula&no-bg=true&no-frame=true&row=1&margin-w=5" alt="Hassan's Trophies">
+      <img height="100" src="https://github-profile-trophy.vercel.app/?username=Muhammadomer902&theme=dracula&no-bg=true&no-frame=true&row=1&margin-w=5" alt="Muhammad's Trophies">
 </p> 
 
 <div align=center>
